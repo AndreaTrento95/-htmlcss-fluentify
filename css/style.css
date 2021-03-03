@@ -155,8 +155,6 @@ header{
 }
 
 /* SECOND SECTION */
-
-
 .section-second{
     width: 100%;
     text-align: center;
@@ -166,16 +164,8 @@ header{
 .section-box1,
 .section-box2,
 .section-box3{
-    width: 30%;
-}
-
-
-
-
-.img{
-    display: inline-block;
-    width: 40%;
-    text-align: center;
+    width: 33%;
+    padding-right: 20px;
 }
 
 .img img{
@@ -184,10 +174,79 @@ header{
 
 .section-second h3{
     font-size: 1.4em;
-    color: rgb(143, 197, 40) ;
+    color: rgb(143, 197, 40);
+}
+
+.img{
+    display: inline-block;
+    text-align: center;
+    margin-bottom: 20px;
 }
 
 
+/* BOX1 */
+
+.img-profile{
+    width: 40%;
+}
+
+
+.container-hr{
+    width: 60px;
+    height: 1px;
+    border-bottom: 1px solid rgb(136, 136, 136);
+    background-color: rgb(136, 136, 136) ;
+    margin: 30px 0;
+    margin-left: 140px;
+}
+
+.second-section-p{
+    color: rgb(136, 136, 136);
+    font-size: 1.5em;
+}
+
+/* BOX2 */
+
+.img-computer{
+    width: 70%;
+}
+
+/* BOX3 */
+
+.img-doc{
+    width: 50%;
+}
+
+.line{
+    border: 1px solidackg rgba(136, 136, 136, 0.7) ;
+    margin-bottom: 20px;
+}
+/* THIRD SECTION */
+
+/* BOX1 */
+
+.section-third{
+    width: 100%;
+}
+
+
+
+.section2-img{
+  margin-left: 20%;
+    
+}
+
+.section2-box1 img{
+    width: 60%;
+}
+
+
+
+/* BOX2 */
+
+.section2-text{
+    width: 70%;
+}
 
 
     
